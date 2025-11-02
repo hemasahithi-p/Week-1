@@ -1,0 +1,5 @@
+ultralytics
+opencv-python
+numpy
+imutils
+playsound==1.2.2
